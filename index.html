@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<title>移動中…</title>
+</head>
+<body>
+<p style="font-family:sans-serif;color:#666;">記事へ移動しています…</p>
+<script>
+(function () {
+  var MAP = {
+    "test": "https://note.com/renkon40",
+    "0180-x-reply": "https://note.com/renkon40/n/n2c9cffe2d5af",
+    "0180-yt-desc": "https://note.com/renkon40/n/n2c9cffe2d5af",
+    "0182-x-reply": "https://note.com/renkon40/n/na92403f2db80",
+    "0182-yt-desc": "https://note.com/renkon40/n/na92403f2db80"
+  };
+  var FALLBACK = "https://note.com/renkon40";
+  var LOG = "https://script.google.com/macros/s/AKfycbwRRC_LUTQJ8X_sw4cDqqjqYS88YEhU6AcC351CY-6fjAj1M8zlYc07wqxIEePdvxHBRQ/exec";
+  var slug = new URLSearchParams(location.search).get("s") || "";
+  var dest = MAP[slug] || FALLBACK;
+  try {
+    if (slug) { new Image().src = LOG + "?s=" + encodeURIComponent(slug); }
+  } catch (e) {}
+  setTimeout(function () { location.replace(dest); }, 150);
+  document.addEventListener("DOMContentLoaded", function () {
+    var a = document.createElement("a");
+    a.href = dest;
+    a.textContent = "自動で移動しない場合はこちら";
+    document.body.appendChild(a);
+  });
+})();
+</script>
+<noscript><a href="https://note.com/renkon40">note.com/renkon40 へ</a></noscript>
+</body>
+</html>
