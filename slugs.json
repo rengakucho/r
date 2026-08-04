@@ -22,5 +22,17 @@
     "title": "たった1行でClaude Desktopが2窓に。1台のMacで複数アカウント並走",
     "description": "起動コマンドと落とし穴3つの回避策を、実機検証つきでNote記事にまとめました。",
     "image": "img/0182.png"
+  },
+  "0176-x-reply": {
+    "url": "https://note.com/renkon40/n/n9b593bf96528",
+    "title": "【公式が8割削除】その指示、Claudeを縛ってるかも｜Opus 5 / Fable 5世代のコンテキスト整理術",
+    "description": "Anthropic公式の方針転換と、自分の環境を実測で整理した手順をNote記事にまとめました。",
+    "image": "img/0176.png"
+  },
+  "0176-yt-desc": {
+    "url": "https://note.com/renkon40/n/n9b593bf96528",
+    "title": "【公式が8割削除】その指示、Claudeを縛ってるかも｜Opus 5 / Fable 5世代のコンテキスト整理術",
+    "description": "Anthropic公式の方針転換と、自分の環境を実測で整理した手順をNote記事にまとめました。",
+    "image": "img/0176.png"
   }
 }
