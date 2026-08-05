@@ -34,5 +34,29 @@
     "title": "【公式が8割削除】その指示、Claudeを縛ってるかも｜Opus 5 / Fable 5世代のコンテキスト整理術",
     "description": "Anthropic公式の方針転換と、自分の環境を実測で整理した手順をNote記事にまとめました。",
     "image": "img/0176.png"
+  },
+  "0169-x-reply": {
+    "url": "https://note.com/renkon40/n/n4ba23bd23305",
+    "title": "「メタ認知して」でGPT-5.6がFable化する説、108回検証したら効く条件が見えた",
+    "description": "3モデル108回のガチ検証。効く条件と効かない条件をNote記事にまとめました。",
+    "image": "img/0169.png"
+  },
+  "0169-yt-desc": {
+    "url": "https://note.com/renkon40/n/n4ba23bd23305",
+    "title": "「メタ認知して」でGPT-5.6がFable化する説、108回検証したら効く条件が見えた",
+    "description": "3モデル108回のガチ検証。効く条件と効かない条件をNote記事にまとめました。",
+    "image": "img/0169.png"
+  },
+  "0171-x-reply": {
+    "url": "https://note.com/renkon40/n/ndd9bf056e8ef",
+    "title": "メタ認知4行の続報。測り直したら結論がひっくり返りました",
+    "description": "回答の質を測り直した続報検証をNote記事にまとめました。",
+    "image": "img/0171.png"
+  },
+  "0171-yt-desc": {
+    "url": "https://note.com/renkon40/n/ndd9bf056e8ef",
+    "title": "メタ認知4行の続報。測り直したら結論がひっくり返りました",
+    "description": "回答の質を測り直した続報検証をNote記事にまとめました。",
+    "image": "img/0171.png"
   }
 }
