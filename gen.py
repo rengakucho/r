@@ -31,7 +31,14 @@ TEMPLATE = """<!doctype html>
 <script>
 (function () {{
   var dest = {dest_js};
-  try {{ new Image().src = "{log}?s=" + encodeURIComponent("{slug}"); }} catch (e) {{}}
+  var beacon = "{log}?s=" + encodeURIComponent("{slug}");
+  // keepalive付きのリクエストはページ遷移後も送信が続くため、遷移で打ち切られない。
+  // 対応していない環境では画像ビーコンへ落とす（2026-08-23: 150ms後に必ず遷移する実装だと
+  // GASの302往復が間に合わずクリックを取りこぼす恐れがあったため変更。遅延は増やさない）。
+  try {{
+    if (window.fetch) {{ fetch(beacon, {{mode: "no-cors", keepalive: true}}); }}
+    else {{ new Image().src = beacon; }}
+  }} catch (e) {{ try {{ new Image().src = beacon; }} catch (e2) {{}} }}
   setTimeout(function () {{ location.replace(dest); }}, 150);
   document.addEventListener("DOMContentLoaded", function () {{
     var a = document.createElement("a");
