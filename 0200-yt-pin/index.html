@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<title>「たった3行」のスキルが、私の自作パイプラインに勝った話【ELI5でAI記事がすっと分かる】</title>
+<meta property="og:title" content="「たった3行」のスキルが、私の自作パイプラインに勝った話【ELI5でAI記事がすっと分かる】">
+<meta property="og:description" content="たった3行のELI5スキルで、難しいAI記事を5歳児向け図解に変えた実験の全記録をNote記事にまとめました。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://rengakucho.github.io/r/0200-yt-pin/">
+<meta property="og:image" content="https://rengakucho.github.io/r/img/0200.png">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<p style="font-family:sans-serif;color:#666;">記事へ移動しています…</p>
+<script>
+(function () {
+  var dest = "https://note.com/renkon40/n/n9a9e0f93a204";
+  var beacon = "https://script.google.com/macros/s/AKfycbwRRC_LUTQJ8X_sw4cDqqjqYS88YEhU6AcC351CY-6fjAj1M8zlYc07wqxIEePdvxHBRQ/exec?s=" + encodeURIComponent("0200-yt-pin");
+  // keepalive付きのリクエストはページ遷移後も送信が続くため、遷移で打ち切られない。
+  // 対応していない環境では画像ビーコンへ落とす（2026-08-23: 150ms後に必ず遷移する実装だと
+  // GASの302往復が間に合わずクリックを取りこぼす恐れがあったため変更。遅延は増やさない）。
+  try {
+    if (window.fetch) { fetch(beacon, {mode: "no-cors", keepalive: true}); }
+    else { new Image().src = beacon; }
+  } catch (e) { try { new Image().src = beacon; } catch (e2) {} }
+  setTimeout(function () { location.replace(dest); }, 150);
+  document.addEventListener("DOMContentLoaded", function () {
+    var a = document.createElement("a");
+    a.href = dest;
+    a.textContent = "自動で移動しない場合はこちら";
+    document.body.appendChild(a);
+  });
+})();
+</script>
+<noscript><a href="https://note.com/renkon40/n/n9a9e0f93a204">続きはこちら</a></noscript>
+</body>
+</html>
