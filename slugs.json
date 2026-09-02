@@ -100,5 +100,23 @@
     "title": "「たった3行」のスキルが、私の自作パイプラインに勝った話【ELI5でAI記事がすっと分かる】",
     "description": "たった3行のELI5スキルで、難しいAI記事を5歳児向け図解に変えた実験の全記録をNote記事にまとめました。",
     "image": "img/0200.png"
+  },
+  "0206-yt-desc": {
+    "url": "https://note.com/renkon40",
+    "title": "【文章が悪くなったって本当？】Claude Fable 5.1 に記事を書かせて読み比べた答えと、料金・effort・Opus 自動転送の初日まとめ",
+    "description": "2026年9月2日発表の Claude Fable 5.1 を発表初日に読み解き、同じ素材で記事を書かせて読み比べた結果まで。れん学長のAIツール実験室",
+    "image": "img/0206.png"
+  },
+  "0206-x-reply": {
+    "url": "https://note.com/renkon40",
+    "title": "【文章が悪くなったって本当？】Claude Fable 5.1 に記事を書かせて読み比べた答えと、料金・effort・Opus 自動転送の初日まとめ",
+    "description": "2026年9月2日発表の Claude Fable 5.1 を発表初日に読み解き、同じ素材で記事を書かせて読み比べた結果まで。れん学長のAIツール実験室",
+    "image": "img/0206.png"
+  },
+  "0206-yt-pin": {
+    "url": "https://note.com/renkon40",
+    "title": "【文章が悪くなったって本当？】Claude Fable 5.1 に記事を書かせて読み比べた答えと、料金・effort・Opus 自動転送の初日まとめ",
+    "description": "2026年9月2日発表の Claude Fable 5.1 を発表初日に読み解き、同じ素材で記事を書かせて読み比べた結果まで。れん学長のAIツール実験室",
+    "image": "img/0206.png"
   }
 }
