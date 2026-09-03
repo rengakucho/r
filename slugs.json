@@ -118,5 +118,17 @@
     "title": "【文章が悪くなったって本当？】Claude Fable 5.1 に記事を書かせて読み比べた答えと、料金・effort・Opus 自動転送の初日まとめ",
     "description": "2026年9月2日発表の Claude Fable 5.1 を発表初日に読み解き、同じ素材で記事を書かせて読み比べた結果まで。れん学長のAIツール実験室",
     "image": "img/0206.png"
+  },
+  "0207-yt-desc": {
+    "url": "https://note.com/renkon40/n/nfda7c4633d85",
+    "title": "Gemini 3.8 Flashは日本語記事の書き手になれるか。初日のX投稿4本から見えた使いどころ",
+    "description": "Gemini 3.8 Flashを調べ物ではなく「検証済み素材から書く係」として試す初日の整理。公式情報、初日のX投稿4本、Fable 5.1との書き比べ実験の予告。",
+    "image": "img/0207.png"
+  },
+  "0207-x-reply": {
+    "url": "https://note.com/renkon40/n/nfda7c4633d85",
+    "title": "Gemini 3.8 Flashは日本語記事の書き手になれるか。初日のX投稿4本から見えた使いどころ",
+    "description": "Gemini 3.8 Flashを調べ物ではなく「検証済み素材から書く係」として試す初日の整理。公式情報、初日のX投稿4本、Fable 5.1との書き比べ実験の予告。",
+    "image": "img/0207.png"
   }
 }
