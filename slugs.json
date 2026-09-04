@@ -136,5 +136,23 @@
     "title": "Gemini 3.8 Flashは日本語記事の書き手になれるか。初日のX投稿4本から見えた使いどころ",
     "description": "Gemini 3.8 Flashを調べ物ではなく「検証済み素材から書く係」として試す初日の整理。公式情報、初日のX投稿4本、Fable 5.1との書き比べ実験。",
     "image": "img/0207.png"
+  },
+  "0207b-yt-desc": {
+    "url": "https://note.com/renkon40/n/n1ccb4961f0c6",
+    "title": "日本語は自然、でも「言い過ぎる」。Gemini 3.8 FlashとFable 5.1に同じ記事を書かせて盲検で比べた結果",
+    "description": "同じ検証済み素材からnote記事を4本書かせ、条件を伏せて採点。順位、言い切りの回数、スキルへの忠実さ、所要時間と、私の使い分け。",
+    "image": "img/0207b.png"
+  },
+  "0207b-x-reply": {
+    "url": "https://note.com/renkon40/n/n1ccb4961f0c6",
+    "title": "日本語は自然、でも「言い過ぎる」。Gemini 3.8 FlashとFable 5.1に同じ記事を書かせて盲検で比べた結果",
+    "description": "同じ検証済み素材からnote記事を4本書かせ、条件を伏せて採点。順位、言い切りの回数、スキルへの忠実さ、所要時間と、私の使い分け。",
+    "image": "img/0207b.png"
+  },
+  "0207b-yt-pin": {
+    "url": "https://note.com/renkon40/n/n1ccb4961f0c6",
+    "title": "日本語は自然、でも「言い過ぎる」。Gemini 3.8 FlashとFable 5.1に同じ記事を書かせて盲検で比べた結果",
+    "description": "同じ検証済み素材からnote記事を4本書かせ、条件を伏せて採点。順位、言い切りの回数、スキルへの忠実さ、所要時間と、私の使い分け。",
+    "image": "img/0207b.png"
   }
 }
