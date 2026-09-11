@@ -268,5 +268,23 @@
     "title": "GPT-6 Astraにパワポ12枚を頼んだら、初稿4分・修正4回で「ほぼ完璧」になった【一発は無理でした】｜れん学長｜AIツール実験室",
     "description": "",
     "image": "img/0209b.png"
+  },
+  "0136-yt-desc": {
+    "url": "https://note.com/renkon40/n/ne2487e361cbc",
+    "title": "ChatGPTのサブスク内でGPT Proに相談できる時代がきた。CodexのChrome拡張でGPTブレストスキルを作り直しました",
+    "description": "gpt-brainstorm スキル最新版。Chrome の ChatGPT Pro に相談させ、Codex MCP をフォールバックにする設計と配布 ZIP の更新。",
+    "image": "img/0136.png"
+  },
+  "0136-x-reply": {
+    "url": "https://note.com/renkon40/n/ne2487e361cbc",
+    "title": "ChatGPTのサブスク内でGPT Proに相談できる時代がきた。CodexのChrome拡張でGPTブレストスキルを作り直しました",
+    "description": "gpt-brainstorm スキル最新版。Chrome の ChatGPT Pro に相談させ、Codex MCP をフォールバックにする設計と配布 ZIP の更新。",
+    "image": "img/0136.png"
+  },
+  "0136-yt-pin": {
+    "url": "https://note.com/renkon40/n/ne2487e361cbc",
+    "title": "ChatGPTのサブスク内でGPT Proに相談できる時代がきた。CodexのChrome拡張でGPTブレストスキルを作り直しました",
+    "description": "gpt-brainstorm スキル最新版。Chrome の ChatGPT Pro に相談させ、Codex MCP をフォールバックにする設計と配布 ZIP の更新。",
+    "image": "img/0136.png"
   }
 }
