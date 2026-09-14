@@ -298,5 +298,17 @@
     "title": "れん学長 | Threads（毎朝、AIツールの実験メモ）",
     "description": "Threadsでは毎朝、AIツールを実際に触った結果を短いメモで投稿しています。",
     "image": "img/threads.png"
+  },
+  "instagram-x": {
+    "url": "https://www.instagram.com/rengakuai/",
+    "title": "れん学長 | Instagram（毎日1本のリール）",
+    "description": "Instagramでは毎日1本、動画の見どころをリールで投稿しています。",
+    "image": "img/instagram.png"
+  },
+  "instagram-ytc": {
+    "url": "https://www.instagram.com/rengakuai/",
+    "title": "れん学長 | Instagram（毎日1本のリール）",
+    "description": "Instagramでは毎日1本、動画の見どころをリールで投稿しています。",
+    "image": "img/instagram.png"
   }
 }
