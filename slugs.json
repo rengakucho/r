@@ -286,5 +286,17 @@
     "title": "ChatGPTのサブスク内でGPT Proに相談できる時代がきた。CodexのChrome拡張でGPTブレストスキルを作り直しました",
     "description": "gpt-brainstorm スキル最新版。Chrome の ChatGPT Pro に相談させ、Codex MCP をフォールバックにする設計と配布 ZIP の更新。",
     "image": "img/0136.png"
+  },
+  "threads-x": {
+    "url": "https://www.threads.com/@rengakuai",
+    "title": "れん学長 | Threads（毎朝、AIツールの実験メモ）",
+    "description": "Threadsでは毎朝、AIツールを実際に触った結果を短いメモで投稿しています。",
+    "image": "img/threads.png"
+  },
+  "threads-ytc": {
+    "url": "https://www.threads.com/@rengakuai",
+    "title": "れん学長 | Threads（毎朝、AIツールの実験メモ）",
+    "description": "Threadsでは毎朝、AIツールを実際に触った結果を短いメモで投稿しています。",
+    "image": "img/threads.png"
   }
 }
