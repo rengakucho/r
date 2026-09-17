@@ -310,5 +310,11 @@
     "title": "れん学長 | Instagram（毎日1本のリール）",
     "description": "Instagramでは毎日1本、動画の見どころをリールで投稿しています。",
     "image": "img/instagram.png"
+  },
+  "youtube-ig-profile": {
+    "url": "https://www.youtube.com/@rengaku-ai2",
+    "title": "れん学長のAIツール実験室（YouTube）",
+    "description": "AIツールを実際に試した結果を動画で公開しています。",
+    "image": "img/youtube.png"
   }
 }
