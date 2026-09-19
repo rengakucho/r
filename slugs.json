@@ -316,5 +316,11 @@
     "title": "れん学長のAIツール実験室（YouTube）",
     "description": "AIツールを実際に試した結果を動画で公開しています。",
     "image": "img/youtube.png"
+  },
+  "0219-x-reply": {
+    "url": "https://note.com/renkon40/n/n07ad762a1203",
+    "title": "記事の図解もスライド画像も、AIに任せて作る。3つの自作スキルをGPT-6 AstraとGPT Image 2.5に合わせて更新しました",
+    "description": "記事の図解、スライド画像、GPTへの相談をAIに任せる自作スキル3本を新モデルに合わせて更新した話。会員向けに新版ZIPと導入・更新の依頼文を配布。",
+    "image": "img/0219.png"
   }
 }
