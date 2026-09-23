@@ -340,5 +340,23 @@
     "title": "【出力は無料】文章を書かないAI「Jev」とは？0.1秒で判断だけ返す新型モデルを、公式ベンチマークとXの実測で整理しました",
     "description": "選ぶ・点数・はい/いいえを確率つきで即答する判断専用AI「Jev」を、公式ベンチマークとXの実測から整理。れん学長のAIツール実験室",
     "image": "img/0223.png"
+  },
+  "0227-yt-desc": {
+    "url": "https://note.com/renkon40/n/n0505503aa5f4",
+    "title": "【モデル選びの迷いに効く】6分野で比べたら動画編集まで1回で1位。安くて賢い「Claude Opus 5.5」が優秀すぎた",
+    "description": "Claude Opus 5.5 を Fable 5.1・GPT-6 Astra と6分野で比べた結果と、スライドを作ったプロンプトのまとめ",
+    "image": "img/0227.png"
+  },
+  "0227-x-reply": {
+    "url": "https://note.com/renkon40/n/n0505503aa5f4",
+    "title": "【モデル選びの迷いに効く】6分野で比べたら動画編集まで1回で1位。安くて賢い「Claude Opus 5.5」が優秀すぎた",
+    "description": "Claude Opus 5.5 を Fable 5.1・GPT-6 Astra と6分野で比べた結果と、スライドを作ったプロンプトのまとめ",
+    "image": "img/0227.png"
+  },
+  "0227-yt-pin": {
+    "url": "https://note.com/renkon40/n/n0505503aa5f4",
+    "title": "【モデル選びの迷いに効く】6分野で比べたら動画編集まで1回で1位。安くて賢い「Claude Opus 5.5」が優秀すぎた",
+    "description": "Claude Opus 5.5 を Fable 5.1・GPT-6 Astra と6分野で比べた結果と、スライドを作ったプロンプトのまとめ",
+    "image": "img/0227.png"
   }
 }
