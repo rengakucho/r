@@ -388,5 +388,23 @@
     "title": "【AI代の重さに効く】7分野で試したら、メール仕分けは全問正解。出たばっかりの「GPT-6 Sol・Luna」が安すぎた",
     "description": "GPT-6 Sol と Luna を、Claude Opus 5.5 や GPT-6 Astra などと7つの実務で比べた結果と、使ったプロンプトをまとめました。",
     "image": "img/0229.png"
+  },
+  "0231-yt-desc": {
+    "url": "https://note.com/renkon40",
+    "title": "もう収録いらない!? 25秒しゃべったら自分の声のクローンが完成した【Gemini 3.8 Flash TTS】",
+    "description": "Gemini 3.8 Flash TTS で自分の声のクローンを作り、無料の Irodori-TTS と聞き比べた記録をNote記事にまとめました。",
+    "image": "img/0231.png"
+  },
+  "0231-yt-pin": {
+    "url": "https://note.com/renkon40",
+    "title": "もう収録いらない!? 25秒しゃべったら自分の声のクローンが完成した【Gemini 3.8 Flash TTS】",
+    "description": "Gemini 3.8 Flash TTS で自分の声のクローンを作り、無料の Irodori-TTS と聞き比べた記録をNote記事にまとめました。",
+    "image": "img/0231.png"
+  },
+  "0231-x-reply": {
+    "url": "https://note.com/renkon40",
+    "title": "もう収録いらない!? 25秒しゃべったら自分の声のクローンが完成した【Gemini 3.8 Flash TTS】",
+    "description": "Gemini 3.8 Flash TTS で自分の声のクローンを作り、無料の Irodori-TTS と聞き比べた記録をNote記事にまとめました。",
+    "image": "img/0231.png"
   }
 }
