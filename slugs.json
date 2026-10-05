@@ -532,5 +532,11 @@
     "title": "【打ち込み疲れに効く】話しかけたら約20秒で声の報告。Claude Codeをdotsみたいにする「声のMod」がすごくいい",
     "description": "Claude Code の Mods で声の Mod を自分の環境で動かすために、どこを直したか、どこで詰まったかを、Claude への頼み方と一緒にまとめました。",
     "image": "img/0240.png"
+  },
+  "0236-x-article": {
+    "url": "https://note.com/renkon40/n/n0e396eb918f3",
+    "title": "【AI課金の迷いに効く】Opus 5.5の半額以下で動く「GPT-6.1 Sol」。OpenAI DevDay 2026がすごすぎた",
+    "description": "",
+    "image": "img/0236.png"
   }
 }
