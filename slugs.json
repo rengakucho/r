@@ -568,5 +568,23 @@
     "title": "【AIの判定まかせに効く】採点1位の画面が、私の目ではごちゃごちゃ。8つの仕事で見比べた「Claude Haiku 5.5」の使いどころ",
     "description": "出たその日の Claude Haiku 5.5 を8つの仕事で試し、AI の採点と私の目の評価がずれた所と、任せる仕事の使い分けをまとめました。",
     "image": "img/0242.png"
+  },
+  "0246-yt-desc": {
+    "url": "https://note.com/renkon40/n/n871b7f096306",
+    "title": "【AIの作り話に効く】頼んでないのに「登録者18.5万人突破」。4つの仕事で比べた「Gemini 4 Argon」の癖と対策",
+    "description": "Google の新モデル Gemini 4 Argon を、Gemini 3.1 Pro、Claude Opus 5.5、GPT のモデルと4つの仕事で比較。頼んでいない実績を19個作った癖と、プロンプトに足すと0個になった2文を紹介します。",
+    "image": "img/0246.png"
+  },
+  "0246-x-reply": {
+    "url": "https://note.com/renkon40/n/n871b7f096306",
+    "title": "【AIの作り話に効く】頼んでないのに「登録者18.5万人突破」。4つの仕事で比べた「Gemini 4 Argon」の癖と対策",
+    "description": "Google の新モデル Gemini 4 Argon を、Gemini 3.1 Pro、Claude Opus 5.5、GPT のモデルと4つの仕事で比較。頼んでいない実績を19個作った癖と、プロンプトに足すと0個になった2文を紹介します。",
+    "image": "img/0246.png"
+  },
+  "0246-yt-pin": {
+    "url": "https://note.com/renkon40/n/n871b7f096306",
+    "title": "【AIの作り話に効く】頼んでないのに「登録者18.5万人突破」。4つの仕事で比べた「Gemini 4 Argon」の癖と対策",
+    "description": "Google の新モデル Gemini 4 Argon を、Gemini 3.1 Pro、Claude Opus 5.5、GPT のモデルと4つの仕事で比較。頼んでいない実績を19個作った癖と、プロンプトに足すと0個になった2文を紹介します。",
+    "image": "img/0246.png"
   }
 }
