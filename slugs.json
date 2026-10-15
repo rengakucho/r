@@ -586,5 +586,17 @@
     "title": "【AIの作り話に効く】頼んでないのに「登録者18.5万人突破」。4つの仕事で比べた「Gemini 4 Argon」の癖と対策",
     "description": "Google の新モデル Gemini 4 Argon を、Gemini 3.1 Pro、Claude Opus 5.5、GPT のモデルと4つの仕事で比較。頼んでいない実績を19個作った癖と、プロンプトに足すと0個になった2文を紹介します。",
     "image": "img/0246.png"
+  },
+  "0246-sha-pin": {
+    "url": "https://youtu.be/8efP4P8y2pM",
+    "title": "【AIの作り話に効く】頼んでないのに「登録者18.5万人突破」。4つの仕事で比べた「Gemini 4 Argon」の癖と対策",
+    "description": "Gemini 4 Argon を4つの仕事で試し、作り話の数字と、それを0個にしたプロンプトの2文を本編で見比べています。",
+    "image": "img/0246.png"
+  },
+  "0246-shb-pin": {
+    "url": "https://youtu.be/8efP4P8y2pM",
+    "title": "【AIの作り話に効く】頼んでないのに「登録者18.5万人突破」。4つの仕事で比べた「Gemini 4 Argon」の癖と対策",
+    "description": "Gemini 4 Argon を4つの仕事で試し、作り話の数字と、それを0個にしたプロンプトの2文を本編で見比べています。",
+    "image": "img/0246.png"
   }
 }
