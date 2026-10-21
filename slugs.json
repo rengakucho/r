@@ -616,5 +616,23 @@
     "title": "【神アプデ】Claude Slides、正直ここまでできる。それでも私が自作「ソダスラ」を使い続ける理由",
     "description": "公式の Claude Slides と自作のスライドツール「ソダスラ」を同じお題で比べた記録。1回作って配るなら公式で十分、動くスライドを PowerPoint に持ち出すならソダスラ。",
     "image": "img/0232b.png"
+  },
+  "0250-yt-desc": {
+    "url": "https://note.com/renkon40/n/nf6c480587d28",
+    "title": "【これは助かる】高市総理も呼びかけたPHPの脆弱性。放置していたWordPressの対応をClaude Codeに頼んでみた",
+    "description": "PHPの重大な脆弱性を受けて、放置していたWordPressブログのPHPの切り替えをClaude Codeに頼んだ記録と、ConoHa WINGで自分でやる手順を、画像付きでまとめました。",
+    "image": "img/0250.png"
+  },
+  "0250-x-reply": {
+    "url": "https://note.com/renkon40/n/nf6c480587d28",
+    "title": "【これは助かる】高市総理も呼びかけたPHPの脆弱性。放置していたWordPressの対応をClaude Codeに頼んでみた",
+    "description": "PHPの重大な脆弱性を受けて、放置していたWordPressブログのPHPの切り替えをClaude Codeに頼んだ記録と、ConoHa WINGで自分でやる手順を、画像付きでまとめました。",
+    "image": "img/0250.png"
+  },
+  "0250-yt-pin": {
+    "url": "https://note.com/renkon40/n/nf6c480587d28",
+    "title": "【これは助かる】高市総理も呼びかけたPHPの脆弱性。放置していたWordPressの対応をClaude Codeに頼んでみた",
+    "description": "PHPの重大な脆弱性を受けて、放置していたWordPressブログのPHPの切り替えをClaude Codeに頼んだ記録と、ConoHa WINGで自分でやる手順を、画像付きでまとめました。",
+    "image": "img/0250.png"
   }
 }
