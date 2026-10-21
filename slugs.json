@@ -598,5 +598,23 @@
     "title": "【AIの作り話に効く】頼んでないのに「登録者18.5万人突破」。4つの仕事で比べた「Gemini 4 Argon」の癖と対策",
     "description": "Gemini 4 Argon を4つの仕事で試し、作り話の数字と、それを0個にしたプロンプトの2文を本編で見比べています。",
     "image": "img/0246.png"
+  },
+  "0232b-yt-desc": {
+    "url": "https://note.com/renkon40/n/n053259d9bb9f",
+    "title": "【神アプデ】Claude Slides、正直ここまでできる。それでも私が自作「ソダスラ」を使い続ける理由",
+    "description": "公式の Claude Slides と自作のスライドツール「ソダスラ」を同じお題で比べた記録。1回作って配るなら公式で十分、動くスライドを PowerPoint に持ち出すならソダスラ。",
+    "image": "img/0232b.png"
+  },
+  "0232b-x-reply": {
+    "url": "https://note.com/renkon40/n/n053259d9bb9f",
+    "title": "【神アプデ】Claude Slides、正直ここまでできる。それでも私が自作「ソダスラ」を使い続ける理由",
+    "description": "公式の Claude Slides と自作のスライドツール「ソダスラ」を同じお題で比べた記録。1回作って配るなら公式で十分、動くスライドを PowerPoint に持ち出すならソダスラ。",
+    "image": "img/0232b.png"
+  },
+  "0232b-yt-pin": {
+    "url": "https://note.com/renkon40/n/n053259d9bb9f",
+    "title": "【神アプデ】Claude Slides、正直ここまでできる。それでも私が自作「ソダスラ」を使い続ける理由",
+    "description": "公式の Claude Slides と自作のスライドツール「ソダスラ」を同じお題で比べた記録。1回作って配るなら公式で十分、動くスライドを PowerPoint に持ち出すならソダスラ。",
+    "image": "img/0232b.png"
   }
 }
