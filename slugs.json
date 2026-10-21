@@ -634,5 +634,11 @@
     "title": "【これは助かる】高市総理も呼びかけたPHPの脆弱性。放置していたWordPressの対応をClaude Codeに頼んでみた",
     "description": "PHPの重大な脆弱性を受けて、放置していたWordPressブログのPHPの切り替えをClaude Codeに頼んだ記録と、ConoHa WINGで自分でやる手順を、画像付きでまとめました。",
     "image": "img/0250.png"
+  },
+  "0250-x-article": {
+    "url": "https://note.com/renkon40/n/nf6c480587d28",
+    "title": "【これは助かる】高市総理も呼びかけたPHPの脆弱性。放置していたWordPressの対応をClaude Codeに頼んでみた",
+    "description": "Claude Code に送った2つのプロンプトと、ConoHa WING で PHP の版を確かめて切り替える手順を、画面つきでまとめました。",
+    "image": "img/0250.png"
   }
 }
