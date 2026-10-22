@@ -640,5 +640,11 @@
     "title": "【これは助かる】高市総理も呼びかけたPHPの脆弱性。放置していたWordPressの対応をClaude Codeに頼んでみた",
     "description": "Claude Code に送った2つのプロンプトと、ConoHa WING で PHP の版を確かめて切り替える手順を、画面つきでまとめました。",
     "image": "img/0250.png"
+  },
+  "0232b-x-article": {
+    "url": "https://note.com/renkon40/n/n053259d9bb9f",
+    "title": "【神アプデ】Claude Slides、正直ここまでできる。それでも私が自作「ソダスラ」を使い続ける理由",
+    "description": "公式の Claude Slides と自作のスライドツール「ソダスラ」を同じお題で比べた記録。1回作って配るなら公式で十分、動くスライドを PowerPoint に持ち出すならソダスラ。",
+    "image": "img/0232b.png"
   }
 }
