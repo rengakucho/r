@@ -646,5 +646,23 @@
     "title": "【神アプデ】Claude Slides、正直ここまでできる。それでも私が自作「ソダスラ」を使い続ける理由",
     "description": "公式の Claude Slides と自作のスライドツール「ソダスラ」を同じお題で比べた記録。1回作って配るなら公式で十分、動くスライドを PowerPoint に持ち出すならソダスラ。",
     "image": "img/0232b.png"
+  },
+  "0251-yt-desc": {
+    "url": "https://note.com/renkon40/n/n4266fb39a152",
+    "title": "【ありがたい】チャエンさんの無料スキル「session-triage」をClaude Codeに入れてみた。見回りは1回いくら？",
+    "description": "チャエンさんの無料スキル session-triage を入れて2回動かした結果と1回あたりの費用、私の AI管制室の最新版（v4）の配布と導入の手順をまとめました。",
+    "image": "img/0251.png"
+  },
+  "0251-x-reply": {
+    "url": "https://note.com/renkon40/n/n4266fb39a152",
+    "title": "【ありがたい】チャエンさんの無料スキル「session-triage」をClaude Codeに入れてみた。見回りは1回いくら？",
+    "description": "チャエンさんの無料スキル session-triage を入れて2回動かした結果と1回あたりの費用、私の AI管制室の最新版（v4）の配布と導入の手順をまとめました。",
+    "image": "img/0251.png"
+  },
+  "0251-yt-pin": {
+    "url": "https://note.com/renkon40/n/n4266fb39a152",
+    "title": "【ありがたい】チャエンさんの無料スキル「session-triage」をClaude Codeに入れてみた。見回りは1回いくら？",
+    "description": "チャエンさんの無料スキル session-triage を入れて2回動かした結果と1回あたりの費用、私の AI管制室の最新版（v4）の配布と導入の手順をまとめました。",
+    "image": "img/0251.png"
   }
 }
