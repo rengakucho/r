@@ -694,5 +694,17 @@
     "title": "【AIの作り話に効く】頼んでないのに「登録者18.5万人突破」。4つの仕事で比べた「Gemini 4 Argon」の癖と対策",
     "description": "れん学長｜AIツール実験室の note 記事です。全文無料で読めます。",
     "image": "img/0246.png"
+  },
+  "0252-yt-desc": {
+    "url": "https://note.com/renkon40/n/n94abc948e825",
+    "title": "【足して正解】書いたきりのCLAUDE.mdより今のコードを優先させる論文の一文を、Claude Codeの3モデルで追試した",
+    "description": "CLAUDE.md の指示と今のコードが食い違うと、AI は気づきながら古い指示に合わせてしまう。論文の一文を足したら、Claude の3モデルでほぼ0%になりました。",
+    "image": "img/0252.png"
+  },
+  "0252-x-reply": {
+    "url": "https://note.com/renkon40/n/n94abc948e825",
+    "title": "【足して正解】書いたきりのCLAUDE.mdより今のコードを優先させる論文の一文を、Claude Codeの3モデルで追試した",
+    "description": "CLAUDE.md の指示と今のコードが食い違うと、AI は気づきながら古い指示に合わせてしまう。論文の一文を足したら、Claude の3モデルでほぼ0%になりました。",
+    "image": "img/0252.png"
   }
 }
