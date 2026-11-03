@@ -706,5 +706,29 @@
     "title": "【足して正解】書いたきりのCLAUDE.mdより今のコードを優先させる論文の一文を、Claude Codeの3モデルで追試した",
     "description": "CLAUDE.md の指示と今のコードが食い違うと、AI は気づきながら古い指示に合わせてしまう。論文の一文を足したら、Claude の3モデルでほぼ0%になりました。",
     "image": "img/0252.png"
+  },
+  "0256-yt-desc": {
+    "url": "https://note.com/renkon40/n/n60e75220124c",
+    "title": "【早く触りたい】AIの助手を用事ごとに何体も作れる「Grok Bot」。Xで話題のポスト25件を、触る前に1つずつ読んだ",
+    "description": "Grok Bot に何を任せられて、何から始めればいいのかを、X で話題のポスト25件から投稿者の名前つきで1件ずつ読み解いた Note 記事です。",
+    "image": "img/0256.png"
+  },
+  "0256-yt-pin": {
+    "url": "https://note.com/renkon40/n/n60e75220124c",
+    "title": "【早く触りたい】AIの助手を用事ごとに何体も作れる「Grok Bot」。Xで話題のポスト25件を、触る前に1つずつ読んだ",
+    "description": "Grok Bot に何を任せられて、何から始めればいいのかを、X で話題のポスト25件から投稿者の名前つきで1件ずつ読み解いた Note 記事です。",
+    "image": "img/0256.png"
+  },
+  "0256-x-reply": {
+    "url": "https://note.com/renkon40/n/n60e75220124c",
+    "title": "【早く触りたい】AIの助手を用事ごとに何体も作れる「Grok Bot」。Xで話題のポスト25件を、触る前に1つずつ読んだ",
+    "description": "Grok Bot に何を任せられて、何から始めればいいのかを、X で話題のポスト25件から投稿者の名前つきで1件ずつ読み解いた Note 記事です。",
+    "image": "img/0256.png"
+  },
+  "0256-x-article": {
+    "url": "https://note.com/renkon40/n/n60e75220124c",
+    "title": "【早く触りたい】AIの助手を用事ごとに何体も作れる「Grok Bot」。Xで話題のポスト25件を、触る前に1つずつ読んだ",
+    "description": "Grok Bot に何を任せられて、何から始めればいいのかを、X で話題のポスト25件から投稿者の名前つきで1件ずつ読み解いた Note 記事です。",
+    "image": "img/0256.png"
   }
 }
