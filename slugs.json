@@ -760,5 +760,11 @@
     "title": "【超使える】プロンプト1回で、パワポで直せる図解に。「GPT Image 2.6」のSVGをClaude Codeで試した",
     "description": "GPT Image 2.6 に SVG の図解を描かせ、PowerPoint で文字のまま直した記録です。貼ったプロンプトと API キーの入れ方もまとめました。",
     "image": "img/0258.png"
+  },
+  "0258-x-article": {
+    "url": "https://note.com/renkon40/n/n25fd760c1810",
+    "title": "【超使える】プロンプト1回で、パワポで直せる図解に。「GPT Image 2.6」のSVGをClaude Codeで試した",
+    "description": "GPT Image 2.6 に SVG の図解を描かせ、PowerPoint で文字のまま直した記録です。貼ったプロンプトと API キーの入れ方もまとめました。",
+    "image": "img/0258.png"
   }
 }
