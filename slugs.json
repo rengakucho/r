@@ -766,5 +766,23 @@
     "title": "【超使える】プロンプト1回で、パワポで直せる図解に。「GPT Image 2.6」のSVGをClaude Codeで試した",
     "description": "GPT Image 2.6 に SVG の図解を描かせ、PowerPoint で文字のまま直した記録です。貼ったプロンプトと API キーの入れ方もまとめました。",
     "image": "img/0258.png"
+  },
+  "0260-yt-desc": {
+    "url": "https://note.com/renkon40/n/nbe1c115f15e6",
+    "title": "【使いたくなる】すぐ枠が減るFable、どこで使う？6つのお題で前の版を超えた「Claude Fable 5.2」はhighで十分",
+    "description": "Claude Fable 5.2 を、前の Fable 5.1 と同じプロンプトと素材で6つのお題に取り組ませて比べた記録です。effort は high で十分だった理由と、発売記念の Fable リセットの注意もまとめました。",
+    "image": "img/0260.png"
+  },
+  "0260-x-reply": {
+    "url": "https://note.com/renkon40/n/nbe1c115f15e6",
+    "title": "【使いたくなる】すぐ枠が減るFable、どこで使う？6つのお題で前の版を超えた「Claude Fable 5.2」はhighで十分",
+    "description": "Claude Fable 5.2 を、前の Fable 5.1 と同じプロンプトと素材で6つのお題に取り組ませて比べた記録です。effort は high で十分だった理由と、発売記念の Fable リセットの注意もまとめました。",
+    "image": "img/0260.png"
+  },
+  "0260-yt-pin": {
+    "url": "https://note.com/renkon40/n/nbe1c115f15e6",
+    "title": "【使いたくなる】すぐ枠が減るFable、どこで使う？6つのお題で前の版を超えた「Claude Fable 5.2」はhighで十分",
+    "description": "Claude Fable 5.2 を、前の Fable 5.1 と同じプロンプトと素材で6つのお題に取り組ませて比べた記録です。effort は high で十分だった理由と、発売記念の Fable リセットの注意もまとめました。",
+    "image": "img/0260.png"
   }
 }
