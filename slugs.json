@@ -832,5 +832,11 @@
     "title": "【これはまずい】Claude Codeで「agy」をログインのまま動かすと、最悪AntigravityのアカウントがBAN。対処法あり",
     "description": "Claude Code から Google AI Pro の枠で agy を呼んでいた3か所を、規約と公式 FAQ で点検し、API キーに直しました。費用の見積もりと、確かめてほしい3つの点もまとめています。",
     "image": "img/0264.png"
+  },
+  "0264-x-article": {
+    "url": "https://note.com/renkon40/n/n9e76305903d4",
+    "title": "【これはまずい】Claude Codeで「agy」をログインのまま動かすと、最悪AntigravityのアカウントがBAN。対処法あり",
+    "description": "Claude Code から Gemini を呼ぶ使い方が Google の規約に当たる形と、API キーで動かす直し方をまとめました。",
+    "image": "img/0264.png"
   }
 }
