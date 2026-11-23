@@ -856,5 +856,11 @@
     "title": "【想像以上】Google AI Proに毎月付いてくるGPU。Claudeに「Colab」のA100を任せたら、Macの11倍速だった",
     "description": "月2,900円の Google AI Pro に毎月付いてくるポイントで Colab の A100 を借り、重い 3D の計算を Claude Code に任せました。Mac で約48分の見込みの計算が4.3分、月に約150回できる計算です。",
     "image": "img/0263.png"
+  },
+  "0263-x-article": {
+    "url": "https://note.com/renkon40/n/nb32e69c13d77",
+    "title": "【想像以上】Google AI Proに毎月付いてくるGPU。Claudeに「Colab」のA100を任せたら、Macの11倍速だった",
+    "description": "月2,900円の Google AI Pro に毎月付いてくるポイントで Colab の A100 を借り、重い 3D の計算を Claude Code に任せました。Mac で約48分の見込みの計算が4.3分、月に約150回できる計算です。",
+    "image": "img/0263.png"
   }
 }
